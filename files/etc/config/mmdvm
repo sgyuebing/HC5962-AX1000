@@ -58,7 +58,7 @@ config mmdvmhost 'Info'
 	option Power '1'
 	option RXFrequency '438100000'
 	option TXFrequency '438100000'
-	option Description 'BIT3.0'
+	option Description 'GEEQEE'
 
 config mmdvmhost 'POCSAG_Network'
 	option Enable '0'
