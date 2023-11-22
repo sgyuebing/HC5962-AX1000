@@ -19,3 +19,11 @@ config timeserver 'ntp'
 	list server 'ntp.ntsc.ac.cn'
 	list server 'cn.ntp.org.cn'
 
+config led
+	option name 'wan'
+	option trigger 'netdev'
+	option dev 'wan'
+	option sysfs 'red:system'
+	list mode 'tx'
+	list mode 'rx'
+
