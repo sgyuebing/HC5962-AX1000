@@ -1,3 +1,4 @@
+00001;YSF2DMR;;;;001;http://;0
 88889;!-NOTREAL-RADIO;NOT REAL RADIO;89.240.4.99;42012;001;http://ysfnrr.cumbriacq.com:8087;0
 30135;!Atlanta-Georgia;Atlanta West;75.8.230.12;42002;003;http://XLX188.RICKJPAGE.COM;0
 62674;----------------;EXPERIMENTS;216.155.132.139;42003;003;http://;0
