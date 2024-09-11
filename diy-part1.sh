@@ -24,5 +24,3 @@ sed -i '$a src-git oscam https://github.com/ntlf9t/openwrt_oscam' feeds.conf.def
 #sed -i '$a src-git mmdvm https://github.com/lazywalker/mmdvm-openwrt' feeds.conf.default
 #sed -i '$a src-git devtools https://github.com/lazywalker/devtools-feeds' feeds.conf.default
 #sed -i '$a src-git mmdvm-feeds https://github.com/sgyuebing/mmdvm-feeds' feeds.conf.default
-
-
