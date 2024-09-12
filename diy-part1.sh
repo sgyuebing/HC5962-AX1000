@@ -15,7 +15,7 @@
 
 # Add a feed source
 sed -i '$a src-git mmdvm https://github.com/qzyuebing/mmdvm-openwrt' feeds.conf.default
-sed -i '$a src-git oscam https://github.com/yangchlin/oscam-openwrt' feeds.conf.default
+#sed -i '$a src-git oscam https://github.com/yangchlin/oscam-openwrt' feeds.conf.default
 sed -i '$a src-git pptp https://github.com/qzyuebing/luci-app-pptp-server' feeds.conf.default
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 #sed -i '$a src-git Aibx https://github.com/Aibx/openwrt-packages' feeds.conf.default
